@@ -56,3 +56,4 @@ edit or install anything into the project space for the initial build.
 
 Test git pull into dev branch from this master
 Test git push into master branch from local dev
+Test git push into test branch from local test
